@@ -863,6 +863,10 @@ body {
     margin-right: 2.5rem;
   }
 
+  .md\:mb-60 {
+    margin-bottom: 15rem;
+  }
+
   .md\:w-1\/2 {
     width: 50%;
   }
